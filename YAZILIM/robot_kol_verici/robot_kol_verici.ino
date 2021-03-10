@@ -1,3 +1,9 @@
+int butonPin1 =9;
+int butonPin2 =10;
+int potx1 =A0;
+int poty1 =A1;
+int potx2 =A2;
+int poty2 =A3;
 #include <SPI.h>
 #include <nRF24L01.h>
 #include <RF24.h>
